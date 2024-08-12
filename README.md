@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Three.js, React**
 
-- 💬 Ask me about **html, css, Javascript, JQuery, Bootdtrap, WordPress, Linux, AWS, Support, Git**
+- 💬 Ask me about **html, css, Javascript, JQuery, Bootstrap, WordPress, Linux, AWS, Support, Git**
 
 - 📫 How to reach me **rapha.9108@gmail.com**
 
